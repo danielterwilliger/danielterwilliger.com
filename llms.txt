@@ -1,0 +1,20 @@
+# Daniel C. Terwilliger
+
+> AI Product Leader — Enterprise Platforms, Search & Agentic Workflows. 10+ years shipping solutions across product management, business analysis, and IT. Based in St. John's, NL, Canada; dual citizen (Canada & U.S.). Contact: daniel.terwil@gmail.com.
+
+This site is the public, machine-readable record of Daniel Terwilliger's professional experience. Content is a sanitized export of a hand-curated experience record: every claim is Daniel's own wording.
+
+## Full record
+
+- [Experience record (markdown)](https://danielterwilliger.com/profile.md): complete professional history — roles, projects, outcomes, education, certifications
+
+## Case studies
+
+- [eXp INBND — AI-supported call centre](https://danielterwilliger.com/work/inbnd.html): +80% call-handling capacity, 150+ agents, 24,000+ inbound hours monthly; AI listing recognition and caller-context summarization on the OpenAI API
+- [VoIP consolidation](https://danielterwilliger.com/work/voip-consolidation.html): 100+ vendor accounts consolidated to Twilio + 8x8, cutting $400,000/yr
+- [Business-needs intake process](https://danielterwilliger.com/work/business-intake.html): 150+ actionable needs captured in two quarters; adopted org-wide
+- [Custom Agent Flags → Tableau](https://danielterwilliger.com/work/custom-agent-flags.html): configurable agent metadata over custom Kafka topics feeding searchable Tableau views
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/danielterwil)
