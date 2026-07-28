@@ -172,9 +172,21 @@ section h2 {
   font-size: 0.95rem; font-weight: 600; letter-spacing: 0.02em;
   color: var(--ink-faint); margin-bottom: 2.4rem;
 }
+.home .wrap.home-wide { max-width: 64rem; }
+.home-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 400px);
+  gap: 3.5rem; align-items: center;
+}
+.home-text { max-width: 34rem; }
 .home-portrait {
-  width: 8.25rem; aspect-ratio: 1; object-fit: cover; object-position: 50% 20%;
-  border-radius: 50%; border: 1px solid var(--hairline); margin-bottom: 1.5rem;
+  width: 100%; aspect-ratio: 3 / 4;
+  object-fit: cover; object-position: 50% 20%;
+  border-radius: 14px; border: 1px solid var(--hairline);
+}
+@media (max-width: 760px) {
+  .home-grid { display: flex; flex-direction: column; align-items: flex-start; gap: 1.8rem; }
+  .home-portrait { order: -1; max-width: 300px; }
 }
 .hi {
   font-family: "Fraunces", Georgia, serif;
