@@ -1,6 +1,6 @@
 # Daniel C. Terwilliger
 
-**AI Product Leader | Enterprise Platforms, Search & Agentic Workflows**
+**AI Product Leader | Enterprise Platforms, Data & Agentic Workflows**
 
 St. John's, NL, Canada · daniel.terwil@gmail.com · [linkedin.com/in/danielterwil](https://www.linkedin.com/in/danielterwil) · [danielterwilliger.com](https://danielterwilliger.com)
 
@@ -10,7 +10,7 @@ This is the plain-text mirror of danielterwilliger.com for automated readers (ag
 
 I have over 10 years of experience shipping solutions, and I get there by talking with everyone: I gather requirements from C-suite executives, refine outcomes with multi-national development teams, present to my cross-product stakeholders, and improve my end-users' experience. Lately that means figuring out how to put functional AI into everything we do!
 
-**Focus areas:** AI Product Strategy · Search & Discovery · KPI Dashboards · Stakeholder Demos · UAT · Remote Agile Teams
+**Focus areas:** AI Product Strategy · Enterprise Data · KPI Dashboards · Stakeholder Demos · UAT · Remote Agile Teams
 
 ## Tech Stack & Platforms
 
@@ -19,8 +19,8 @@ OpenAI Codex · Gemini · Claude · Atlassian APIs · Jira · Slack · Tableau �
 ## Core Competencies
 
 - **Product Leadership:** Product Strategy & Vision · Roadmapping · Lifecycle Management
-- **Delivery:** Agile & Scrum · Sprint Planning · Backlog Prioritization
-- **AI & Analytics:** AI Product Development · Search & Discovery · KPI Reporting
+- **Delivery:** Agile & Scrum · Sprint Planning · Backlog Prioritization · Jira Administration
+- **AI & Analytics:** AI Product Development · Enterprise Data · KPI Reporting
 - **Customer & UX:** User Research · UAT · Customer Experience · Stakeholder Demos
 
 ## Professional Experience
@@ -42,16 +42,16 @@ Two-person venture building AI agents for operational workflows (Jira triage, do
 
 Owned product strategy, roadmaps, KPIs, stakeholder alignment, and Agile delivery for enterprise platforms covering agent onboarding, lifecycle management, financial operations, and customer service across the United States and Canada.
 
-- Shipped **eXp INBND**, an AI-supported call-centre application (recognition, routing, HubSpot mapping) that increased call-handling capacity over 80% and now supports 150+ agents handling 24,000+ inbound hours monthly. Case study: https://danielterwilliger.com/work/inbnd.html
-- Managed **eXp Enterprise**, the Mendix system of record for all agent data across the U.S. and Canada (PII, contact, licensing, financials, lifecycle) on a Kafka and AWS backbone.
+- Shipped **eXp INBND**, an AI-supported call-centre application (recognition, routing, HubSpot mapping) that increased call-handling capacity over 80% and now supports 150+ call agents handling 24,000+ inbound hours monthly. Case study: https://danielterwilliger.com/work/inbnd.html
+- Directed **eXp Enterprise**, the Mendix system of record for all agent data across the U.S. and Canada (PII, contact, licensing, financials, lifecycle) on a Kafka and AWS backbone. Case study: https://danielterwilliger.com/work/exp-enterprise.html
 - Built **Custom Agent Flags**, surfacing enterprise data to business users through custom Kafka topics feeding clean, searchable Tableau views across multiple agent-data streams. Case study: https://danielterwilliger.com/work/custom-agent-flags.html
 - Shipped **ConnectID**, a grouping and referral-tracking system serving 85,000+ agents that grew into its own product, letting staff offer premier services across the agent base.
-- Built a custom AI developer workflow (OpenAI Codex CLI, Gemini, Atlassian APIs, Slack) to automate Jira issue creation and accelerate documentation.
+- Built a custom AI developer workflow (OpenAI Codex CLI, Gemini, Atlassian APIs, Slack) to automate Jira issue creation and accelerate documentation. Case study: https://danielterwilliger.com/work/ai-workflow.html
 - Owned UAT, backlog prioritization, sprint planning, and Agile ceremonies across dedicated development teams.
 
 **Business Analyst — Solution Delivery** · April 2021 – May 2023
 
-- **VoIP Restructuring:** cut $400,000 in yearly costs by negotiating and consolidating 100+ company VoIP accounts — RingCentral plus smaller services — into one unified system: Twilio for agent extensions, routing, and the call centre, plus a single enterprise roster on 8x8 for staff phones. Case study: https://danielterwilliger.com/work/voip-consolidation.html
+- **VoIP Restructuring:** cut $400,000 in yearly costs by negotiating and consolidating 100+ company VoIP accounts (RingCentral, Grasshopper, and other one-off vendors) into Twilio and 8x8. Case study: https://danielterwilliger.com/work/voip-consolidation.html
 - **Business Intake:** captured 150+ actionable business needs over two quarters via an intake process that tied requests to stakeholders, quarterly priorities, and OKRs. Case study: https://danielterwilliger.com/work/business-intake.html
 - Gathered and analyzed requirements, translating business needs into solutions that addressed customer challenges across departments.
 
