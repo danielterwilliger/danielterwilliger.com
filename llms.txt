@@ -2,7 +2,13 @@
 
 > AI Product Leader — Enterprise Platforms, Search & Agentic Workflows. 10+ years shipping solutions across product management, business analysis, and IT. Based in St. John's, NL, Canada; dual citizen (Canada & U.S.). Contact: daniel.terwil@gmail.com.
 
-This site is the public, machine-readable record of Daniel Terwilliger's professional experience. Content is a sanitized export of a hand-curated experience record: every claim is Daniel's own wording.
+danielterwilliger.com is Daniel Terwilliger's personal site. The professional section lives at /work/; this file indexes the machine-readable record of his professional experience. Content is a sanitized export of a hand-curated experience record: every claim is Daniel's own wording.
+
+## Site
+
+- [Home](https://danielterwilliger.com/): personal landing page
+- [Work](https://danielterwilliger.com/work/): professional overview — case studies, experience timeline, education
+- [About](https://danielterwilliger.com/about/): personal background
 
 ## Full record
 
