@@ -22,6 +22,7 @@ danielterwilliger.com is Daniel Terwilliger's personal site. The professional se
 - [VoIP consolidation](https://danielterwilliger.com/work/voip-consolidation.html): 100+ vendor accounts consolidated to Twilio + 8x8, cutting $400,000/yr
 - [Business-needs intake process](https://danielterwilliger.com/work/business-intake.html): 150+ actionable needs captured in two quarters; adopted org-wide
 - [Custom Agent Flags → Tableau](https://danielterwilliger.com/work/custom-agent-flags.html): configurable agent metadata over custom Kafka topics feeding searchable Tableau views
+- [ConnectID — the one I got wrong](https://danielterwilliger.com/work/connectid.html): flexible groups outside the contractual team structure, built in Mendix; shipped and well architected, but two groups adopted while dozens stayed on spreadsheets — a discovery failure Daniel owns and writes up in his own words
 
 ## Elsewhere
 
