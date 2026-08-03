@@ -10,6 +10,25 @@ Standing rules set by Daniel, 2026-07-28. These are not suggestions; they are th
 4. **Stage, review, approve, merge, live.** Content is reviewed on its environment URL before promotion. Only Daniel approves promotion to prod.
 5. **Public-safe from day one.** This repo is public. Nothing sensitive goes in files, issues, commit messages, or PR text. Job-search strategy and private context live in the private repo, cross-linked never quoted.
 6. **Approved wording only.** Site copy is assembled from Daniel's curated experience record (private repo). Claims are never invented; Daniel signs off line by line before content ships.
+7. **Every page declares its visibility.** A PR that adds or changes a page says whether the page is **listed** or **unlisted**. There is no third state, and unlisted is a choice someone makes, not what happens when nobody does.
+8. **The agent layer ships with the page.** A PR that adds, removes, or materially changes a listed page updates `profile.md` and `llms.txt` **in the same PR** — never as a follow-up. If a change deliberately does not belong in the machine-readable layer, the PR says why.
+9. **Upstream changes arrive as issues, not as sweeps.** The private experience record carries the matching obligation (`job_pii#612`): a session that changes a publicly-stated claim there opens an issue here before it finishes. Those issues are the trigger for revisions; #4 is their standing home. Nobody is expected to notice drift by looking for it.
+
+## Page visibility
+
+`profile.md` and `llms.txt` are the machine-readable mirror of this site — the deliverable behind the public agent/ATS-readable record. They only work if they are complete, so every page has to be in one bucket or the other:
+
+| | Listed | Unlisted |
+|---|---|---|
+| Linked from site navigation | yes | no |
+| In `llms.txt` | yes | no |
+| In `profile.md` (if it is a case study) | linked from the matching bullet | no |
+| `<meta name="robots">` | absent (indexable) | `noindex,nofollow` |
+| Reachable how | by browsing | direct link only |
+
+A page that is unlisted but **not** noindexed is the failure state: invisible to every reader that navigates or parses the site, and visible to any crawler that finds the URL. That is #14.
+
+**Unlisted is not private.** This repo is public, so an unlisted page's source is world-readable by anyone who looks at the repo, and its URL is guessable. Never treat unlisted as a way to publish something that should not be public — if it should not be public, it does not belong in this repo.
 
 ## Environments
 
