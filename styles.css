@@ -114,6 +114,7 @@ section h2 {
 
 /* ---- work cards ---- */
 .work-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.1rem; }
+.work-grid .card-wide { grid-column: 1 / -1; }
 @media (max-width: 640px) { .work-grid { grid-template-columns: 1fr; } }
 
 .card {

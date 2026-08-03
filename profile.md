@@ -45,7 +45,7 @@ Owned product strategy, roadmaps, KPIs, stakeholder alignment, and Agile deliver
 - Shipped **eXp INBND**, an AI-supported call-centre application (recognition, routing, HubSpot mapping) that increased call-handling capacity over 80% and now supports 150+ call agents handling 24,000+ inbound hours monthly. Case study: https://danielterwilliger.com/work/inbnd.html
 - Directed **eXp Enterprise**, the Mendix system of record for all agent data across the U.S. and Canada (PII, contact, licensing, financials, lifecycle) on a Kafka and AWS backbone. Case study: https://danielterwilliger.com/work/exp-enterprise.html
 - Built **Custom Agent Flags**, surfacing enterprise data to business users through custom Kafka topics feeding clean, searchable Tableau views across multiple agent-data streams. Case study: https://danielterwilliger.com/work/custom-agent-flags.html
-- Shipped **ConnectID**, a grouping and referral-tracking system serving 85,000+ agents that grew into its own product, letting staff offer premier services across the agent base.
+- Shipped **ConnectID**, a grouping and referral-tracking system serving 85,000+ agents that grew into its own product, letting staff offer premier services across the agent base. Case study — discovery, the one I got wrong: https://danielterwilliger.com/work/connectid.html
 - Built a custom AI developer workflow (OpenAI Codex CLI, Gemini, Atlassian APIs, Slack) to automate Jira issue creation and accelerate documentation. Case study: https://danielterwilliger.com/work/ai-workflow.html
 - Owned UAT, backlog prioritization, sprint planning, and Agile ceremonies across dedicated development teams.
 
